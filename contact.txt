@@ -1,13 +1,25 @@
 Name:     Fraser Scott
-Email:    fraser@protonmail.ch
+Email:    fraser [at] protonmail [dot] ch
+Email:    fraser [dot] scott [at] gmail [dot] com
 Keybase:  https://keybase.io/zeroXten
 Bitcoin:  1LqEVc6Ain3gdzNuvyVCNc7DJg4skAjXu8
+
+Fingerprints:
+
+Keybase: 964B 5D41 67F2 DC47 9579 AF2E 123B 0B53 F98D 837F
+Signal:  05 66 73 cb bd 5a 15 17
+         e4 a9 56 39 02 fc 56 fb
+         c9 6a 39 2a 65 e3 50 e4 
+         d7 eb ce c2 26 03 f2 b2 0a
+
+Development:
+
+GitHub:   https://github.com/zeroXten
 
 Social media:
 
 Twitter:  https://twitter.com/zeroXten
 LinkedIn: https://uk.linkedin.com/in/zeroxten
-GitHub:   https://github.com/zeroXten
 
 Projects:
 
