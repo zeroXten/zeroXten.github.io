@@ -1,3 +1,7 @@
+********************************************************************************
+*             This information has been signed using my keybase key            *
+********************************************************************************
+
 Name:     Fraser Scott
 Email:    fraser [at] protonmail [dot] ch
 Email:    fraser [dot] scott [at] gmail [dot] com
@@ -28,7 +32,7 @@ http://threatspec.org
 http://howdoireportavuln.com/
 http://tectur.io
 
-Email public key:
+ProtonMail public key:
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: OpenPGP.js v1.2.0
@@ -63,3 +67,6 @@ z5VhySbQTzBj3qEENAiYP2tTfyGpEvVt5887FeXvyWraNy55xDSIGSc=
 =nJ4N
 -----END PGP PUBLIC KEY BLOCK-----
 
+********************************************************************************
+*                                   kthnxbye                                   *
+********************************************************************************
