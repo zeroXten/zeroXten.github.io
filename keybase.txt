@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/zeroxten
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://0x10.co
+  * I am zeroxten (https://keybase.io/zeroxten) on keybase.
+  * I have a public key with fingerprint 964B 5D41 67F2 DC47 9579  AF2E 123B 0B53 F98D 837F
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.18"
+        },
+        "key": {
+            "eldest_kid": "010192c826a9300b3f6ca479189859ff455931250e87a3d9846449ea4f2983701fc60a",
+            "fingerprint": "964b5d4167f2dc479579af2e123b0b53f98d837f",
+            "host": "keybase.io",
+            "key_id": "123b0b53f98d837f",
+            "kid": "010192c826a9300b3f6ca479189859ff455931250e87a3d9846449ea4f2983701fc60a",
+            "uid": "6403b38903ba2c34e39c705d07534100",
+            "username": "zeroxten"
+        },
+        "service": {
+            "hostname": "0x10.co",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1447843910,
+    "expire_in": 157680000,
+    "prev": "10ccd3b36f6ce1bf434f0818dc92b9b3a6a60850e2fdb1eea29c39c2b59da654",
+    "seqno": 21,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.14 (Darwin)
+
+owGtkltIFFEcxnftZkbYha4U1ERRum3nzJy5nJWeivWhIIzaerFl5syZdXKbWXdn
+zQv2ksti0oWk0qDISJOsoCAiCMSCFIoou1GR9RLRXQ270uUcMSjosXkYhnN+3/98
+3zdn3+Qxvhz/7Scf2x/bpa3+6y8NX2Tt5nCtYLhmtRCqFUjcpo7Hvxx9GxVCQjmt
+NvQUDdruAsc1aXBrasEoExAqaTJluw6jQFALQk2oC3Ceq2ncpCkvWm6bfBcCiEWi
+iYqOJQAMyVKIjlQMNazJ2LKQLGMJijKgmqpLJtaQghCmOrJErEkqgBZRgM4OtGwn
+RpOJpM0tClhBhmwiqKiWaBI2T1axbokUipIBDFmysGYyucWEZW7K+yuMMOI0OmLv
+H/x/9p0eGacgIBmShtlbF4mEqISJCmQTqLKEIAAcTNHkaPE1NOlWedThpbLVSptQ
+XixPMkqAKgiChEdJJF3PJW6cLZZ5XiLENV51gkPbqREdlUcN2zFZg3/+uSbIUOLZ
+fCBESNWQhCEICLQqYSdp1GYIlFVFA+zh59BKXhggxGRRFNYHhYaFJGQBDWomwaKB
+DUlXdAVorBbRMg1IqS5iwrKKhoxNXZGRwBNVOK4QEiEzqsfYzJQdc3QvnaRCXYN/
+3lifP8c3flwOv5y+vIlTft9YMj3Xl+3tuHV0jTNjKE1iS3sjd7svH785LdPYeHHh
+/uVOpPT7oK9o6NPbJXOuvHnxw2wOD9Q/knubPp9rKvi5rizSf7rg6sRtS86UFEc7
+NzxPf8tkb5TW3Gwr/DLbGRqGZfmBT/f76h8Pzyp61ZP3JtU82N59rf5Y4ZPhZbGW
+nrPlKyLv360uXgXiR6yuknvrDxdF9n6IbNSye2OLOk4IJ+f1zbyQt665rXVAmnA+
+QR9Zhy5N6nwdT1x4OHho2TVfuqLFbNn8IrN438DK/qpxB3K2Z47O78rvDPtb55Jn
+4eyDZ8U7D/aVfN3TM8Xtv9NamJtb8XR6ZlNiyy60+1Ss5Uz31B295w40/AI=
+=ju2l
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zeroxten
+
+==================================================================
